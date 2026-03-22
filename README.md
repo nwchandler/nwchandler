@@ -2,7 +2,7 @@
 
 > _Practicing the craft of systems software._
 
-I'm a systems engineer drawn to the foundations of modern computing: operating systems, networking, compilers, and distributed systems. I strive to be a **Systems Toolsmith**: someone who draws from multiple domains to solve general problems by building reusable tooling for myself and others.
+I'm a systems engineer drawn to the foundations of modern computing: operating systems, networking, compilers, and distributed systems. I aspire to be a **Systems Toolsmith**: someone who draws from multiple domains to solve general problems by building reusable tooling for myself and others.
 
 I study how low-level software behaves by building small, reproducible experiments and tools. Much of what you'll find here reflects that practice.
 
@@ -17,7 +17,7 @@ I work from a few core principles:
 ## Current Focus
 
 - Operating system internals
-- Compilers and language runtimes
+- Network stacks and drivers
 
 ## Writing
 
